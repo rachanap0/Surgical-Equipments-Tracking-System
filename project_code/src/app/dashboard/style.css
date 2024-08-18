@@ -1,0 +1,9 @@
+.main-content {
+  background: linear-gradient(
+    to bottom,
+    #f4f1ec 0%,
+    #f4f1ec 50%,
+    #2c5f2d 50%,
+    #2c5f2d 100%
+  );
+}
